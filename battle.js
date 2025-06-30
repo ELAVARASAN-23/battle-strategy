@@ -86,3 +86,8 @@ const winningBattleOrder = findOptimalMatchup(ownPlatoons, enemyPlatoons);
 
 // output
 console.log({winningBattleOrder})
+
+
+// To run the code
+// Install nodejs
+// node battle.js
